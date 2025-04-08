@@ -1,4 +1,5 @@
 import numpy as np
+
 l1 = np.array([23,45,67,56,89,90,23,32])
 l2 = l1
 l2 is l1
