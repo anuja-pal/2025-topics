@@ -14,5 +14,5 @@
 
 
   ## NLP
-  - going through langchain doc.
+  - going through spacy NER.
 
