@@ -13,6 +13,9 @@
 - decorators
 
 
-  ## NLP
-  - going through spacy NER.
+## NLP
+- spacy NER.
+- word2vec (cbow & skipgram)
+- glove
+- nlp preprocessing techniques (tokenisation, lemmatisation, stemming)
 
