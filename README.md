@@ -12,6 +12,9 @@
 - list comprehension
 - decorators
 
+### (tbd)
+- pipelines using kedro
+
 
 ## NLP
 - spacy NER.
