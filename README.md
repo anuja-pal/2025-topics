@@ -19,3 +19,15 @@
 - glove
 - nlp preprocessing techniques (tokenisation, lemmatisation, stemming)
 
+### (tbd)
+- RNN
+- LSTM/GRU
+- Self-attention mechanisms
+- Transformers
+- LLMs
+  - Pre-training
+  - Fine tuning
+  - Evaluation techniques
+- More pre-processing techniques (e.g. Byte Pair encoding)
+
+
